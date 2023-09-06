@@ -1,5 +1,5 @@
-telegram_access_token = ''
-test = 123
+telegram_access_token = '6580021649:AAHZMIeKeFp6M0KYG9sPG6B3OjGMrHEYTGw'
+
 telegram_url = 'https://web.telegram.org'
 
 chat_main_url = 'https://web.telegram.org/a/#'
