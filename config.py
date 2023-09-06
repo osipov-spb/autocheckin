@@ -1,4 +1,4 @@
-telegram_access_token = '6580021649:AAHZMIeKeFp6M0KYG9sPG6B3OjGMrHEYTGw'
+telegram_access_token = ''
 
 telegram_url = 'https://web.telegram.org'
 
